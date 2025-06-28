@@ -1,6 +1,6 @@
 # 💼 Resume & Interview AI Coach
 An AI-powered Resume & Interview Coach that helps you craft resumes, cover letters, and prep with mock questions — instantly and professionally.
-❤️ Created by Rahat Bano | Powered by Gemini & Streamlit
+Created by Rahat Bano ❤️ | Powered by Gemini & Streamlit
 
 ---
 
