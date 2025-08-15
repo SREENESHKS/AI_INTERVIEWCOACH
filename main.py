@@ -138,9 +138,9 @@ st.markdown("""<hr style="margin-top:3rem;margin-bottom:0.5rem">""", unsafe_allo
 st.markdown(
     """
     <div style='text-align: center; padding: 10px;'>
-        <b>© 2025 Created by Rahat Bano ❤️</b><br>
-        🔗 <a href="https://www.linkedin.com/in/rahat-bano-5b78b41b3/" target="_blank">LinkedIn</a> |
-        💻 <a href="https://github.com/rahatbano58" target="_blank">GitHub</a>
+        <b>© 2025 Created by Sreenesh K S ❤️</b><br>
+        🔗 <a href="https://www.linkedin.com/in/sreenesh-ks/" target="_blank">LinkedIn</a> |
+        💻 <a href="https://github.com/SREENESHKS" target="_blank">GitHub</a>
     </div>
     """,
     unsafe_allow_html=True
