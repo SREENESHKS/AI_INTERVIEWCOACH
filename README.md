@@ -1,70 +1,59 @@
-# 💼 Resume & Interview AI Coach
-An AI-powered Resume & Interview Coach that helps you craft resumes, cover letters, and prep with mock questions — instantly and professionally.
-Created by Rahat Bano ❤️ | Powered by Gemini & Streamlit
+# 💼 AI-Powered Resume & Interview Coach
 
----
+![AI Career Coach](https://img.shields.io/badge/Powered%20By-Gemini%201.5%20Flash-blue) 
+![License](https://img.shields.io/badge/License-MIT-green)
 
-🚀 **Resume & Interview AI Coach** is a smart Streamlit app powered by **Gemini 1.5 Flash** that helps users instantly generate:
-- 📄 Professional Resumes
-- ✉️ Customized Cover Letters
-- 🎯 Mock Interview Questions
-- ✅ Feedback on Interview Answers
+An intelligent career preparation tool that helps job seekers craft professional resumes, generate tailored cover letters, and practice with AI-generated interview questions.
 
-Perfect for students, fresh graduates, and professionals preparing for job applications — all in one place!
+✨ **Created by**: Sreenesh K S 
+🚀 **Live Demo**: [Coming Soon]  
 
----
+## 🌟 Key Features
 
-## 🌟 Features
+### Resume & Cover Letter Tools
+- 📄 **ATS-Optimized Resume Builder**
+- ✉️ **Personalized Cover Letter Generator**
+- 🎨 **Professional Formatting Templates**
+- ⬇️ **One-Click PDF Export**
 
-- 🔐 Securely uses Gemini API with `.env` support
-- ✨ Clean and intuitive Streamlit UI
-- 📑 ATS-friendly resume formatting
-- 🧠 Smart mock interview question generation
-- 🔍 Feedback on custom interview answers
-- ⬇️ One-click download of resume and cover letter
-- 📱 Responsive sidebar for user details
-- 📌 Footer with author credits and useful links
+### Interview Preparation
+- 🎯 **Custom Mock Interview Questions**
+- 🧠 **AI-Powered Answer Evaluation**
+- 💡 **Real-Time Feedback & Suggestions**
+- 📊 **Performance Analytics**
 
----
+### Technical Highlights
+- 🔐 **Secure API Key Management** (dotenv)
+- 🌐 **Responsive Web Interface** (Streamlit)
+- ⚡ **Fast AI Processing** (Gemini 1.5 Flash)
+- 📱 **Mobile-Friendly Design**
 
-## 🔧 Tech Stack
+## 🛠️ Tech Stack
 
-| Tech         | Description                  |
-|--------------|------------------------------|
-| 🧠 Gemini API | Powered by Google Gemini 1.5 |
-| 🐍 Python     | Core programming language    |
-| 🌐 Streamlit  | For frontend web interface   |
-| 🧪 dotenv     | API key management           |
-| 🤖 agents SDK | AI Agent integration         |
+| Component       | Technology               |
+|-----------------|--------------------------|
+| **AI Engine**   | Google Gemini 1.5 Flash  |
+| **Backend**     | Python 3.10+             |
+| **Frontend**    | Streamlit                |
+| **Security**    | dotenv                   |
+| **Deployment**  | Render/Streamlit Cloud   |
 
----
+## 🚀 Quick Start
 
-## 📦 Installation
+### Prerequisites
+- Python 3.10+
+- Google Gemini API Key
+- Git
 
-1. **Clone the repo**
-   ```bash
-   git clone https://github.com/rahatbano58/Resume-And-Interview-AI-Coach.git
-   cd Resume-And-Interview-AI-Coach
+### Installation
+```bash
+# Clone repository
+git clone https://github.com/SREENESHKS/AI_INTERVIEWCOACH.git
+cd AI_INTERVIEWCOACH
 
----
+# Create virtual environment
+python -m venv .venv
+source .venv/bin/activate  # Windows: .venv\Scripts\activate
 
-2. **Create virtual environment**:
-uv venv
-source .venv/bin/activate    # On Windows: .venv\Scripts\activate
-
----
-
-3. **Install requirements**:
+# Install dependencies
 pip install -r requirements.txt
-
----
-
-4. **Set up your .env file**:
-GEMINI_API_KEY=your_google_gemini_api_key_here
-
----
-
-## 🙋‍♀️ Created By
-**Rahat Bano**
-✨ Resume & Career Tools with AI
-🔗 LinkedIn | 💻 GitHub
